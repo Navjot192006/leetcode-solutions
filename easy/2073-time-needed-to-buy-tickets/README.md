@@ -56,8 +56,8 @@ Return the **time taken** for the person **initially** at position **k** (0-inde
 
 **Language:** Java  
 **Runtime:** 11 ms (beats 19.74%)  
-**Memory:** 46.1 MB (beats 31.07%)  
-**Submitted:** 2026-10-08T11:53:51.124Z  
+**Memory:** 46.2 MB (beats 24.67%)  
+**Submitted:** 2026-10-08T11:54:04.949Z  
 
 ```java
 class Solution {
